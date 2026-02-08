@@ -1,0 +1,5 @@
+Type,Name,HightestValue
+RankingRangeDTO,1000+,20
+RankingRangeDTO,10000+,15
+RankingRangeDTO,100000+,10
+RankingRangeDTO,1000000+,0

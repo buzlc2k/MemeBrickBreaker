@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 55627754f8f467e478051c2b83d95dbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2185459749040986271
+    second: banacat_0
+  - first:
+      213: 3112116580963273055
+    second: banacat_1
+  - first:
+      213: -8476146776533069657
+    second: banacat_2
+  - first:
+      213: 2483880784111540284
+    second: banacat_3
+  - first:
+      213: 2545148724758470902
+    second: banacat_4
+  - first:
+      213: 978880128637002012
+    second: banacat_5
+  - first:
+      213: -7994612723465051087
+    second: banacat_6
+  - first:
+      213: 5376672079383672686
+    second: banacat_7
+  - first:
+      213: 2670282348113074707
+    second: banacat_8
+  - first:
+      213: -7227492883774901610
+    second: banacat_9
+  - first:
+      213: -620355166311075565
+    second: banacat_10
+  - first:
+      213: -2882970603927168459
+    second: banacat_11
+  - first:
+      213: -1373362604333576882
+    second: banacat_12
+  - first:
+      213: -482921714199366434
+    second: banacat_13
+  - first:
+      213: -9101586597462148627
+    second: banacat_14
+  - first:
+      213: -4831677547852841641
+    second: banacat_15
+  - first:
+      213: 3161158483333013566
+    second: banacat_16
+  - first:
+      213: -2086738995725800276
+    second: banacat_17
+  - first:
+      213: -2533523404328770033
+    second: banacat_18
+  - first:
+      213: -568107482591217733
+    second: banacat_19
+  - first:
+      213: 4860464679042251872
+    second: banacat_20
+  - first:
+      213: 1794618679186905185
+    second: banacat_21
+  - first:
+      213: -2738127264769622326
+    second: banacat_22
+  - first:
+      213: -8459190756116516865
+    second: banacat_23
+  - first:
+      213: 2827019660442757934
+    second: banacat_24
+  - first:
+      213: 3926445764737423151
+    second: banacat_25
+  - first:
+      213: 6091751004189586492
+    second: banacat_26
+  - first:
+      213: 3734975607241518546
+    second: banacat_27
+  - first:
+      213: 2605594028662926353
+    second: banacat_28
+  - first:
+      213: 5265190165086978407
+    second: banacat_29
+  - first:
+      213: -3316922242104746261
+    second: banacat_30
+  - first:
+      213: -7242088004025731445
+    second: banacat_31
+  - first:
+      213: -1717028101756940262
+    second: banacat_32
+  - first:
+      213: -2922669917088832182
+    second: banacat_33
+  - first:
+      213: 4484030282598499161
+    second: banacat_34
+  - first:
+      213: 8743960739045732624
+    second: banacat_35
+  - first:
+      213: 5196973621842193344
+    second: banacat_36
+  - first:
+      213: 2443755992041055254
+    second: banacat_37
+  - first:
+      213: -6744774448513908117
+    second: banacat_38
+  - first:
+      213: -4766504405290529393
+    second: banacat_39
+  - first:
+      213: 5546354800309135096
+    second: banacat_40
+  - first:
+      213: 1003259433187332793
+    second: banacat_41
+  - first:
+      213: -5306930107605080686
+    second: banacat_42
+  - first:
+      213: 3495047200352162413
+    second: banacat_43
+  - first:
+      213: 4387642514501298290
+    second: banacat_44
+  - first:
+      213: -9192367411864964208
+    second: banacat_45
+  - first:
+      213: 5119935126970932609
+    second: banacat_46
+  - first:
+      213: 1025366310412446655
+    second: banacat_47
+  - first:
+      213: 3561820254900940097
+    second: banacat_48
+  - first:
+      213: 2518049240403917241
+    second: banacat_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: banacat_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 635
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1676f73ffefaba1e0800000000000000
+      internalID: -2185459749040986271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 635
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f594bebaa85703b20800000000000000
+      internalID: 3112116580963273055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 635
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a09ca05a6dae5a80800000000000000
+      internalID: -8476146776533069657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 635
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c381369b964887220800000000000000
+      internalID: 2483880784111540284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 635
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f064c7c74f225320800000000000000
+      internalID: 2545148724758470902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 565
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11e8196a4ea59d00800000000000000
+      internalID: 978880128637002012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 565
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1342c05d51e6d0190800000000000000
+      internalID: -7994612723465051087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 565
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67bc65f4c6cd9a40800000000000000
+      internalID: 5376672079383672686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 565
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a9649d5afbe0520800000000000000
+      internalID: 2670282348113074707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 565
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692feedd389c2bb90800000000000000
+      internalID: -7227492883774901610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 495
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3113375534e0467f0800000000000000
+      internalID: -620355166311075565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 495
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a1707a281adf7d0800000000000000
+      internalID: -2882970603927168459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 495
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d44ecdcf5d0fce0800000000000000
+      internalID: -1373362604333576882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 495
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4f2d272415c49f0800000000000000
+      internalID: -482921714199366434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 495
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9ffcd363ba0b180800000000000000
+      internalID: -9101586597462148627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 425
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d300b9ede62fcb0800000000000000
+      internalID: -4831677547852841641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 425
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30e6cd54e0bedb20800000000000000
+      internalID: 3161158483333013566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 425
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caceecc70f96a03e0800000000000000
+      internalID: -2086738995725800276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 425
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0668de03ed17dcd0800000000000000
+      internalID: -2533523404328770033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 425
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7b8e9214dad18f0800000000000000
+      internalID: -568107482591217733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 355
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c75adafd6d37340800000000000000
+      internalID: 4860464679042251872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 355
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16857303e24c7e810800000000000000
+      internalID: 1794618679186905185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 355
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace389982c7300ad0800000000000000
+      internalID: -2738127264769622326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_23
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 355
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff286673daea9a80800000000000000
+      internalID: -8459190756116516865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_24
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 355
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b6cb927679b3720800000000000000
+      internalID: 2827019660442757934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 285
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27d20dae998d7630800000000000000
+      internalID: 3926445764737423151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 285
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3479d8434f3a8450800000000000000
+      internalID: 6091751004189586492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 285
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd216aa68c45d330800000000000000
+      internalID: 3734975607241518546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 285
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c255bc6fde82420800000000000000
+      internalID: 2605594028662926353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_29
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 285
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761c3e81f86b11940800000000000000
+      internalID: 5265190165086978407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 215
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee11cb6bcce7f1d0800000000000000
+      internalID: -3316922242104746261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 215
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86bdef945fee7b90800000000000000
+      internalID: -7242088004025731445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_32
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 215
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a101a65e904eb28e0800000000000000
+      internalID: -1717028101756940262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_33
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 215
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45233402379077d0800000000000000
+      internalID: -2922669917088832182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_34
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 215
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953c06cd8c97a3e30800000000000000
+      internalID: 4484030282598499161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 145
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01178c4f6f9c85970800000000000000
+      internalID: 8743960739045732624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 145
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbaafc69fb5f1840800000000000000
+      internalID: 5196973621842193344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_37
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 145
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614e65f8027f9e120800000000000000
+      internalID: 2443755992041055254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_38
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 145
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62823adf5fb562a0800000000000000
+      internalID: -6744774448513908117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_39
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 145
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dc2565f79f9ddb0800000000000000
+      internalID: -4766504405290529393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 75
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f665b61e4c98fc40800000000000000
+      internalID: 5546354800309135096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 75
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2d0b4932b4ced00800000000000000
+      internalID: 1003259433187332793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_42
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 75
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295af583f2ff956b0800000000000000
+      internalID: -5306930107605080686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_43
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 75
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62d63249e6e08030800000000000000
+      internalID: 3495047200352162413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_44
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 75
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2786046ce9904ec30800000000000000
+      internalID: 4387642514501298290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09379eaca862e6080800000000000000
+      internalID: -9192367411864964208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d95241fd9ad0740800000000000000
+      internalID: 5119935126970932609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_47
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 5
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb69c80a35da3e00800000000000000
+      internalID: 1025366310412446655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_48
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d692786a02e6130800000000000000
+      internalID: 3561820254900940097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banacat_49
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 5
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9b7356178e1f220800000000000000
+      internalID: 2518049240403917241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 354f32d6ab12a6340bbb1923cc369880
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      banacat_0: -2185459749040986271
+      banacat_1: 3112116580963273055
+      banacat_10: -620355166311075565
+      banacat_11: -2882970603927168459
+      banacat_12: -1373362604333576882
+      banacat_13: -482921714199366434
+      banacat_14: -9101586597462148627
+      banacat_15: -4831677547852841641
+      banacat_16: 3161158483333013566
+      banacat_17: -2086738995725800276
+      banacat_18: -2533523404328770033
+      banacat_19: -568107482591217733
+      banacat_2: -8476146776533069657
+      banacat_20: 4860464679042251872
+      banacat_21: 1794618679186905185
+      banacat_22: -2738127264769622326
+      banacat_23: -8459190756116516865
+      banacat_24: 2827019660442757934
+      banacat_25: 3926445764737423151
+      banacat_26: 6091751004189586492
+      banacat_27: 3734975607241518546
+      banacat_28: 2605594028662926353
+      banacat_29: 5265190165086978407
+      banacat_3: 2483880784111540284
+      banacat_30: -3316922242104746261
+      banacat_31: -7242088004025731445
+      banacat_32: -1717028101756940262
+      banacat_33: -2922669917088832182
+      banacat_34: 4484030282598499161
+      banacat_35: 8743960739045732624
+      banacat_36: 5196973621842193344
+      banacat_37: 2443755992041055254
+      banacat_38: -6744774448513908117
+      banacat_39: -4766504405290529393
+      banacat_4: 2545148724758470902
+      banacat_40: 5546354800309135096
+      banacat_41: 1003259433187332793
+      banacat_42: -5306930107605080686
+      banacat_43: 3495047200352162413
+      banacat_44: 4387642514501298290
+      banacat_45: -9192367411864964208
+      banacat_46: 5119935126970932609
+      banacat_47: 1025366310412446655
+      banacat_48: 3561820254900940097
+      banacat_49: 2518049240403917241
+      banacat_5: 978880128637002012
+      banacat_6: -7994612723465051087
+      banacat_7: 5376672079383672686
+      banacat_8: 2670282348113074707
+      banacat_9: -7227492883774901610
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
